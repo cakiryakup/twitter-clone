@@ -1,0 +1,10 @@
+.hero_banner {
+    width: calc(100vw - 50.5rem);
+    min-height: 125vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position: top;
+    background-size: cover;
+    background-image: url(https://abs.twimg.com/sticky/illustrations/lohp_1302x955.png);
+}
